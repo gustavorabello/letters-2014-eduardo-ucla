@@ -1,0 +1,9 @@
+.DS*
+references
+*swp
+*.aux
+*.bbl
+*.blg
+*.log
+*.spl
+letter.pdf
