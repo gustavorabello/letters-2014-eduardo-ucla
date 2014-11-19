@@ -4,6 +4,7 @@ references
 *.aux
 *.bbl
 *.blg
+*.out
 *.log
 *.spl
 letter.pdf
